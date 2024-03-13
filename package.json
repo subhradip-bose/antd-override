@@ -2,6 +2,9 @@
   "name": "antd-override",
   "version": "1.0.0",
   "main": "index.js",
+  "exports": {
+    "antd": ["./antd/"]
+  },
   "repository": "https://github.com/subhradip-bose/antd-override.git",
   "license": "MIT",
   "dependencies": {
