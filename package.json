@@ -1,0 +1,10 @@
+{
+  "name": "antd-override",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/subhradip-bose/antd-override.git",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "4.24.7"
+  }
+}
